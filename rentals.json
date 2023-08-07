@@ -1,38 +1,38 @@
 [
-    {
-        "image": "https://static.showit.co/1600/5yaiOibiTl2C9PNCLR8R0g/185848/screenshot_2023-02-06_at_1_27_40_pm.png",
-        "address": "624 E HOPKINS AVENUE",
-        "rate": "$7,000 NIGHTLY / $10,000 HOLIDAY",
-        "details": "https://agaspen.com/624-e-hopkins"
-    },
-    {
-        "image": "https://static.showit.co/1600/MHYSrOaSQOGW2gU29gC3hQ/185848/dsc6854-hdr.jpg",
-        "address": "200 S ASPEN STREET",
-        "rate": "$30,000 NIGHTLY",
-        "details": "https://agaspen.com/200-s-aspen-street"
-    },
-    {
-        "image": "https://static.showit.co/1600/rwHu0Gc_TlW_Rp3zoazTFw/185848/dw48260-hdr.jpg",
-        "address": "24 LITTLE CLOUD",
-        "rate": "$10,500 NIGHTLY / $14,500 HOLIDAY",
-        "details": "https://agaspen.com/24-little-cloud"
-    },
-    {
-        "image": "https://static.showit.co/1600/UiyJ0PtyRc-udWrs00ZSWw/185848/kingstreet_1555.jpg",
-        "address": "936 KING STREET",
-        "rate": "$15,000 NIGHTLY / $22,000 HOLIDAY",
-        "details": "https://agaspen.com/936-king-street"
-    },
-    {
-        "image": "https://static.showit.co/1600/5yaiOibiTl2C9PNCLR8R0g/185848/screenshot_2023-02-06_at_1_27_40_pm.png",
-        "address": "710 N. THIRD ST",
-        "rate": "$8,000 MONTHLY LT / $12,000 MONTHLY ST",
-        "details": "https://agaspen.com/710-n-3rd-street"
-    },
-    {
-        "image": "https://static.showit.co/1600/vluHlWjqTYygWyxwMvEElw/185848/coopercondo_9556.jpg",
-        "address": "210 E COOPER AVENUE",
-        "rate": "$10,000 MONTHLY LT · $15,000 MONTHLY ST",
-        "details": "https://agaspen.com/210-e-cooper-avenue"
-    },
+	{
+		"image": "https://static.showit.co/1600/5yaiOibiTl2C9PNCLR8R0g/185848/screenshot_2023-02-06_at_1_27_40_pm.png",
+		"address": "624 E HOPKINS AVENUE",
+		"rate": "$7,000 NIGHTLY / $10,000 HOLIDAY",
+		"details": "https://agaspen.com/624-e-hopkins"
+	},
+	{
+		"image": "https://static.showit.co/1600/MHYSrOaSQOGW2gU29gC3hQ/185848/dsc6854-hdr.jpg",
+		"address": "200 S ASPEN STREET",
+		"rate": "$30,000 NIGHTLY",
+		"details": "https://agaspen.com/200-s-aspen-street"
+	},
+	{
+		"image": "https://static.showit.co/1600/rwHu0Gc_TlW_Rp3zoazTFw/185848/dw48260-hdr.jpg",
+		"address": "24 LITTLE CLOUD",
+		"rate": "$10,500 NIGHTLY / $14,500 HOLIDAY",
+		"details": "https://agaspen.com/24-little-cloud"
+	},
+	{
+		"image": "https://static.showit.co/1600/UiyJ0PtyRc-udWrs00ZSWw/185848/kingstreet_1555.jpg",
+		"address": "936 KING STREET",
+		"rate": "$15,000 NIGHTLY / $22,000 HOLIDAY",
+		"details": "https://agaspen.com/936-king-street"
+	},
+	{
+		"image": "https://static.showit.co/1600/5yaiOibiTl2C9PNCLR8R0g/185848/screenshot_2023-02-06_at_1_27_40_pm.png",
+		"address": "710 N. THIRD ST",
+		"rate": "$8,000 MONTHLY LT / $12,000 MONTHLY ST",
+		"details": "https://agaspen.com/710-n-3rd-street"
+	},
+	{
+		"image": "https://static.showit.co/1600/vluHlWjqTYygWyxwMvEElw/185848/coopercondo_9556.jpg",
+		"address": "210 E COOPER AVENUE",
+		"rate": "$10,000 MONTHLY LT · $15,000 MONTHLY ST",
+		"details": "https://agaspen.com/210-e-cooper-avenue"
+	}
 ]
